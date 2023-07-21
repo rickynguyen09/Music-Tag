@@ -10,6 +10,7 @@ https://wordpress.org/download/releases/
 
 
 Visual Studio Community 2022 17.6.5
+
 https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#1765--visual-studio-2022-version-1765
 
 -   ASP.NET and web development
