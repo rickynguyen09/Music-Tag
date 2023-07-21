@@ -19,8 +19,7 @@ https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#1765-
 -   .NET Desktop Development
 -   Data storage and processing
 
-**Visual Studio Code 1.80.1
-**
+**Visual Studio Code 1.80.1**
 
 https://code.visualstudio.com/#alt-downloads
 
