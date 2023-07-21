@@ -5,12 +5,12 @@ The user click on what today mood they want to listen and then it’ll grab from
 Then we can dive deeper to actually have a database full of users
 
 
-Wordpress 6.6.2
-
+**Wordpress 6.6.2
+**
 https://wordpress.org/download/releases/
 
 
-Visual Studio Community 2022 17.6.5
+**Visual Studio Community 2022 17.6.5**
 
 https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#1765--visual-studio-2022-version-1765
 
@@ -19,6 +19,6 @@ https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#1765-
 -   .NET Desktop Development
 -   Data storage and processing
 
-Sign up for Azure Devop using your Github account
+**Sign up for Azure Devop using your Github account**
 
 https://azure.microsoft.com/en-us/products/devops
