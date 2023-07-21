@@ -8,6 +8,7 @@ Then we can dive deeper to actually have a database full of users
 **Wordpress 6.6.2**
 
 https://wordpress.org/download/releases/
+
 https://www.wix.com/
 
 
