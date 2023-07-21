@@ -19,3 +19,6 @@ https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#1765-
 -   .NET Desktop Development
 -   Data storage and processing
 
+Sign up for Azure Devop using your Github account
+
+https://azure.microsoft.com/en-us/products/devops
