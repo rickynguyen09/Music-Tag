@@ -6,11 +6,11 @@ Then we can dive deeper to actually have a database full of users
 
 https://wordpress.org/download/releases/
 
-\Download\Wordpress 6.6.2
+Wordpress 6.6.2
 
 https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#1765--visual-studio-2022-version-1765
 
-\Download\Visual Studio Community 2022 17.6.5
+Visual Studio Community 2022 17.6.5
 -   ASP.NET and web development
 -   Azure Development
 -   .NET Desktop Development
