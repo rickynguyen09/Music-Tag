@@ -5,8 +5,8 @@ The user click on what today mood they want to listen and then it’ll grab from
 Then we can dive deeper to actually have a database full of users
 
 
-**Wordpress 6.6.2
-**
+**Wordpress 6.6.2**
+
 https://wordpress.org/download/releases/
 
 
